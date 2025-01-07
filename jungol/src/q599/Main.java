@@ -17,8 +17,5 @@ public class Main {
 				System.out.print(str.toUpperCase().charAt(i));
 			}
 		}
-
-
 	}
-
 }
